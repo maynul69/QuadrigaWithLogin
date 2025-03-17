@@ -13,30 +13,30 @@ const Team = () => {
               <Card.Img
                 style={{ width: "100%" }}
                 variant="top"
-                src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/433190443_3641663336108454_7375523714735453836_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEGLf65C4OlqoRw2orx-KRySyYlnlV5ShFLJiWeVXlKEWkd6qv4hvqNmwSsw87pJ5jz5_zFZlZicCOLrZrNOwdh&_nc_ohc=7zWt-AfnAYkQ7kNvgE4uwEV&_nc_ht=scontent.fdac24-5.fna&oh=00_AfBhVFi4ZIfNzFs5IvzFopPQ9hkWoeGCKX2QM7eFHJtqwA&oe=663E9BEC"
+                src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/475164028_2941677409333130_5245578244059576246_n.jpg?stp=dst-jpg_p350x350_tt6&_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHFmTaapTiy3WCXFUg9SliWC7j8x4qIaKcLuPzHiohopwi781DFmJHpx0gSfdsXwRpe101VPJj-CbRPQVUdK4fQ&_nc_ohc=c7-k8FtdCYoQ7kNvgFSFXVW&_nc_oc=AdgmnSgd0QZ6S_i1kb0GH1Hxo5xkYUqbPX1P1NCTSZd8xZeaK8XtyQ_aa-iGDkHqnV0&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=jTfbEs4mGJBF_JsXsmjbEA&oh=00_AYERBcs88gFsIOw6ki9-bEyTtJPwxEu0MP2XEd8OibkHDw&oe=67DE03FB"
               />
               <Card.Body>
-                <Card.Title className="title">Anmoy Kar</Card.Title>
+                <Card.Title className="title">Maynul Hossain</Card.Title>
                 <Card.Text>Team Leader</Card.Text>
               </Card.Body>
             </Card>
             <Card className="mx-2 border-0 card-design bg-dark text-light shadow p-3 mb-5  rounded">
               <Card.Img
                 variant="top"
-                src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/433190443_3641663336108454_7375523714735453836_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEGLf65C4OlqoRw2orx-KRySyYlnlV5ShFLJiWeVXlKEWkd6qv4hvqNmwSsw87pJ5jz5_zFZlZicCOLrZrNOwdh&_nc_ohc=7zWt-AfnAYkQ7kNvgE4uwEV&_nc_ht=scontent.fdac24-5.fna&oh=00_AfBhVFi4ZIfNzFs5IvzFopPQ9hkWoeGCKX2QM7eFHJtqwA&oe=663E9BEC"
+                src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/475164028_2941677409333130_5245578244059576246_n.jpg?stp=dst-jpg_p350x350_tt6&_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHFmTaapTiy3WCXFUg9SliWC7j8x4qIaKcLuPzHiohopwi781DFmJHpx0gSfdsXwRpe101VPJj-CbRPQVUdK4fQ&_nc_ohc=c7-k8FtdCYoQ7kNvgFSFXVW&_nc_oc=AdgmnSgd0QZ6S_i1kb0GH1Hxo5xkYUqbPX1P1NCTSZd8xZeaK8XtyQ_aa-iGDkHqnV0&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=jTfbEs4mGJBF_JsXsmjbEA&oh=00_AYERBcs88gFsIOw6ki9-bEyTtJPwxEu0MP2XEd8OibkHDw&oe=67DE03FB"
               />
               <Card.Body>
-                <Card.Title className="title">Anmoy Kar</Card.Title>
+                <Card.Title className="title">Maynul Hossain</Card.Title>
                 <Card.Text>Team Member</Card.Text>
               </Card.Body>
             </Card>
             <Card className="mx-2 border-0 card-design bg-dark text-light shadow p-3 mb-5  rounded">
               <Card.Img
                 variant="top"
-                src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/433190443_3641663336108454_7375523714735453836_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEGLf65C4OlqoRw2orx-KRySyYlnlV5ShFLJiWeVXlKEWkd6qv4hvqNmwSsw87pJ5jz5_zFZlZicCOLrZrNOwdh&_nc_ohc=7zWt-AfnAYkQ7kNvgE4uwEV&_nc_ht=scontent.fdac24-5.fna&oh=00_AfBhVFi4ZIfNzFs5IvzFopPQ9hkWoeGCKX2QM7eFHJtqwA&oe=663E9BEC"
+                src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/475164028_2941677409333130_5245578244059576246_n.jpg?stp=dst-jpg_p350x350_tt6&_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHFmTaapTiy3WCXFUg9SliWC7j8x4qIaKcLuPzHiohopwi781DFmJHpx0gSfdsXwRpe101VPJj-CbRPQVUdK4fQ&_nc_ohc=c7-k8FtdCYoQ7kNvgFSFXVW&_nc_oc=AdgmnSgd0QZ6S_i1kb0GH1Hxo5xkYUqbPX1P1NCTSZd8xZeaK8XtyQ_aa-iGDkHqnV0&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=jTfbEs4mGJBF_JsXsmjbEA&oh=00_AYERBcs88gFsIOw6ki9-bEyTtJPwxEu0MP2XEd8OibkHDw&oe=67DE03FB"
               />
               <Card.Body>
-                <Card.Title className="title">Anmoy Kar</Card.Title>
+                <Card.Title className="title">Maynul Hossain</Card.Title>
                 <Card.Text>Team Member</Card.Text>
               </Card.Body>
             </Card>
