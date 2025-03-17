@@ -5,11 +5,11 @@ import Header from '../Shared/Header/Header';
 
 const AddCar = () => {
      const { register, handleSubmit, reset } = useForm();
-     const [key, setKey] = useState(null);
+    //  const [code, setCode] = useState(null);
      const [name, setName] = useState('');
-     const [duration, setDuration] = useState(null);
+    //  const [duration, setDuration] = useState(null);
      const [desc, setDesc] = useState('');
-     const [price, setPrice] = useState(null);
+     const [rent, setRent] = useState(null);
      const [file, setFile] = useState(null);
     //  const onSubmit = (data) => {
     //    console.log(data);
@@ -26,10 +26,10 @@ const AddCar = () => {
     const submitHandler= async (e) =>{
       e.preventDefault();
       const newPost = {
-        key,
+        // code,
         name, 
-        duration,
-        price,
+        // duration,
+        rent,
         desc
       };
       
@@ -68,14 +68,14 @@ const AddCar = () => {
             margin: "auto",
           }}
         >
-          <input
+          {/* <input
             className="mt-3"
             className="mt-3"
-            {...register("key")}
+            {...register("code")}
             type="number"
-            placeholder="key"
-            onChange={e=>setKey(e.target.value)}
-          />
+            placeholder="code"
+            onChange={e=>setCode(e.target.value)}
+          /> */}
           <input
             className="mt-3"
             {...register("name", { required: true, maxLength: 20 })}
@@ -84,19 +84,19 @@ const AddCar = () => {
             
           />
 
-          <input
+          {/* <input
             className="mt-3"
             {...register("duration")}
             type="number"
             placeholder="duration (days)"
             onChange={e=>setDuration(e.target.value)}
-          />
+          /> */}
           <input
             className="mt-3"
             type="number"
-            {...register("price")}
-            placeholder="price"
-            onChange={e=>setPrice(e.target.value)}
+            {...register("rent")}
+            placeholder="Rent/Day"
+            onChange={e=>setRent(e.target.value)}
           />
 
           <textarea

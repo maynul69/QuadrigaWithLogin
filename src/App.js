@@ -44,6 +44,7 @@ function App() {
           <PrivateRoute exact path="/addCar">
             <AddCar></AddCar>
           </PrivateRoute>
+          
           <PrivateRoute exact path="/subscribe">
             <Subscribe></Subscribe>
           </PrivateRoute>
