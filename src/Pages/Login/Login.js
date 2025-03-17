@@ -139,7 +139,6 @@ const Login = () => {
             setLoggedInUser(createdUser);
             sessionStorage.setItem("token", createdUser.email)
             history.replace(from);
-            // console.log(createdUser);
             handlelogin();
           })
           .catch(err => {
